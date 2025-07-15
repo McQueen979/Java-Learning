@@ -2,17 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db19f751-8078-40a9-b9fd-090545e41d07" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/Basic.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Database/Database.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Microservices/Microservices.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project1_Takeaway/Project1_Takeaway.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2_Logistics/Project2_Logistics.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringFramework/SpringFramework.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/Web.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/src/com/D1/Note1_Basis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/src/com/D1/Note2_Calculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/src/com/D1/Note3_Choice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/src/com/D2_Loop/P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/src/com/D2_Loop/P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/src/com/D2_Loop/P3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/src/com/D2_Loop/P4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/src/com/D3_Method/P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/src/com/D4_API/P1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/com/D1/Note1.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,15 +43,28 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="17" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Project2_Logistics" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager">
-    <configuration name="Note1" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.D1.Note1" />
+  <component name="RunManager" selected="Application.Note4_Loop">
+    <configuration name="Note1_Basis" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.D1.Note1_Basis" />
+      <module name="Basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.D1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Note4_Loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.D1.Note4_Loop" />
       <module name="Basic" />
       <extension name="coverage">
         <pattern>
@@ -73,6 +87,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Note4_Loop" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -86,6 +105,8 @@
       <workItem from="1752534101459" duration="690000" />
       <workItem from="1752579597428" duration="297000" />
       <workItem from="1752579915703" duration="1499000" />
+      <workItem from="1752581726128" duration="2940000" />
+      <workItem from="1752584756663" duration="762000" />
     </task>
     <servers />
   </component>
