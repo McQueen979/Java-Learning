@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/.idea.iml" filepath="$PROJECT_DIR$/.idea/.idea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic/Basic.iml" filepath="$PROJECT_DIR$/Basic/Basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Database/Database.iml" filepath="$PROJECT_DIR$/Database/Database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Microservices/Microservices.iml" filepath="$PROJECT_DIR$/Microservices/Microservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project1_Takeaway/Project1_Takeaway.iml" filepath="$PROJECT_DIR$/Project1_Takeaway/Project1_Takeaway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project2_Logistics/Project2_Logistics.iml" filepath="$PROJECT_DIR$/Project2_Logistics/Project2_Logistics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringFramework/SpringFramework.iml" filepath="$PROJECT_DIR$/SpringFramework/SpringFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Web/Web.iml" filepath="$PROJECT_DIR$/Web/Web.iml" />
+    </modules>
+  </component>
+</project>
