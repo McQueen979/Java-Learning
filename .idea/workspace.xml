@@ -1,19 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="db19f751-8078-40a9-b9fd-090545e41d07" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/com/D1/Note1_Basis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/com/D1/Note2_Calculation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/com/D1/Note3_Choice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/com/D2_Loop/P1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/com/D2_Loop/P2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/com/D2_Loop/P3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/com/D2_Loop/P4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/com/D3_Method/P1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/com/D4_API/P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/src/com/D3_Method/P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/src/com/D3_Method/P3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/src/com/D3_Method/P4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/src/com/D5_API/DateChooser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/src/com/D5_API/P1_Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/src/com/D5_API/P2_Random.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/src/com/D5_API/P3_JFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/src/com/D5_API/P4_JLabel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/src/com/D5_API/P5_JTextField_JPasswordField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/src/com/D5_API/P6_JTextArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/src/com/D5_API/P7_Demo1_Attendance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/src/com/D5_API/P7_Event.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/src/com/D5_API/P8_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/src/com/D5_API/P9_Integer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/src/com/D5_API/Random.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/src/com/D6_API_Project/AttendanceQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/src/com/D6_API_Project/ChatRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/src/com/D6_API_Project/GuessNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/src/com/D6_API_Project/UserLogin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic/src/com/D1/Note1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/com/D1/Note1_Basis.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/com/D1_Basis/Note1_Basis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/com/D1/Note2_Calculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/com/D1_Basis/Note2_Calculation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/com/D1/Note3_Choice.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/com/D1_Basis/Note3_Choice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/com/D2_Loop/P2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/com/D2_Loop/P2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/com/D3_Method/P1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/com/D3_Method/P1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/com/D4_API/P1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/com/D1/Note1_Basis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/com/D1/Note2_Calculation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/com/D1/Note3_Choice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/com/D1/Note4_Loop.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +51,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="2zstoVx1YBoPjem9UAjwTiGxTpn" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,19 +74,37 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="17" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java-learning-daily" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.Note4_Loop">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="Z:\@Code\JavaNote\Basic\src\com\D5_API" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AttendanceQuery">
+    <configuration name="AttendanceQuery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.D6_API_Project.AttendanceQuery" />
+      <module name="Basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.D6_API_Project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Note1_Basis" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.D1.Note1_Basis" />
+      <option name="MAIN_CLASS_NAME" value="com.D1_Basis.Note1_Basis" />
       <module name="Basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.D1.*" />
+          <option name="PATTERN" value="com.D1_Basis.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Note4_Loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.D1.Note4_Loop" />
+    <configuration name="P6_JTextArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.D5_API.P6_JTextArea" />
       <module name="Basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.D1.*" />
+          <option name="PATTERN" value="com.D5_API.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,20 +125,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration name="P7_Demo1_Attendance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.D5_API.P7_Demo1_Attendance" />
+      <module name="Basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.D5_API.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P7_Event" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.D5_API.P7_Event" />
+      <module name="Basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.D5_API.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P8_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.D5_API.P8_String" />
+      <module name="Basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.D5_API.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Note4_Loop" />
+        <item itemvalue="Application.AttendanceQuery" />
+        <item itemvalue="Application.P8_String" />
+        <item itemvalue="Application.P7_Event" />
+        <item itemvalue="Application.P7_Demo1_Attendance" />
+        <item itemvalue="Application.P6_JTextArea" />
       </list>
     </recent_temporary>
   </component>
@@ -107,6 +201,9 @@
       <workItem from="1752579915703" duration="1499000" />
       <workItem from="1752581726128" duration="2940000" />
       <workItem from="1752584756663" duration="762000" />
+      <workItem from="1752585900704" duration="628000" />
+      <workItem from="1752613853578" duration="7034000" />
+      <workItem from="1752639529737" duration="10743000" />
     </task>
     <servers />
   </component>

@@ -1,4 +1,4 @@
-package com.D1;
+package com.D1_Basis;
 //基础
 public class Note1_Basis {
     public static void main(String[] args) {

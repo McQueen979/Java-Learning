@@ -1,4 +1,4 @@
-package com.D1;
+package com.D1_Basis;
 //数值计算
 public class Note2_Calculation {
     public static void main(String[] args) {
