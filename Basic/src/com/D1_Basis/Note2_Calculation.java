@@ -2,7 +2,7 @@ package com.D1_Basis;
 //数值计算
 public class Note2_Calculation {
     public static void main(String[] args) {
-/* 1.数值拆分
+// 1.数值拆分
         int num1 = 281;
         int ge = num1 % 10;          //  345%10=34..5
         int shi = num1 / 10 % 10;    //  345/10=34%10=3..4

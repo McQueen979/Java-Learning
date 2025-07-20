@@ -5,36 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db19f751-8078-40a9-b9fd-090545e41d07" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Basic/src/com/D3_Method/P2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/com/D3_Method/P3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/com/D3_Method/P4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/com/D5_API/DateChooser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/com/D5_API/P1_Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/com/D5_API/P2_Random.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/com/D5_API/P3_JFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/com/D5_API/P4_JLabel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/com/D5_API/P5_JTextField_JPasswordField.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/com/D5_API/P6_JTextArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/com/D5_API/P7_Demo1_Attendance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/com/D5_API/P7_Event.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/com/D5_API/P8_String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/com/D5_API/P9_Integer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/com/D5_API/Random.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/com/D6_API_Project/AttendanceQuery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/com/D6_API_Project/ChatRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/com/D6_API_Project/GuessNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/com/D6_API_Project/UserLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/src/com/D7_Array/P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/src/com/D7_Array/P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/src/com/D7_Array/P3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/src/com/D7_Array/P4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/src/com/D7_Array/P5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/src/com/D8_PuzzleGame/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/src/com/D8_PuzzleGame/Music.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/src/com/D8_PuzzleGame/PictureFrame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic/src/com/D1/Note1_Basis.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/com/D1_Basis/Note1_Basis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic/src/com/D1/Note2_Calculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/com/D1_Basis/Note2_Calculation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic/src/com/D1/Note3_Choice.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/com/D1_Basis/Note3_Choice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic/src/com/D2_Loop/P2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/com/D2_Loop/P2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic/src/com/D3_Method/P1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/com/D3_Method/P1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic/src/com/D4_API/P1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Basic/com/D1/Note1_Basis.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Basic/com/D1/Note2_Calculation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Basic/com/D1/Note3_Choice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Basic/com/D1/Note4_Loop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/Basic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/Basic.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/com/D1_Basis/Note2_Calculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/com/D1_Basis/Note2_Calculation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Basic/com/D1_Basis/Note2_Calculation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Basic/com/D1_Basis/Note2_Calculation.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +56,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="17" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java-learning-daily" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Basic/lib/jl-1.0.1.jar" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -85,7 +67,20 @@
       <recent name="Z:\@Code\JavaNote\Basic\src\com\D5_API" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AttendanceQuery">
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.D8_PuzzleGame.App" />
+      <module name="Basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.D8_PuzzleGame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AttendanceQuery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.D6_API_Project.AttendanceQuery" />
       <module name="Basic" />
@@ -112,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P6_JTextArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.D5_API.P6_JTextArea" />
+    <configuration name="P2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.D7_Array.P2" />
       <module name="Basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.D5_API.*" />
+          <option name="PATTERN" value="com.D7_Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P7_Demo1_Attendance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.D5_API.P7_Demo1_Attendance" />
+    <configuration name="P3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.D7_Array.P3" />
       <module name="Basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.D5_API.*" />
+          <option name="PATTERN" value="com.D7_Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P7_Event" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.D5_API.P7_Event" />
+    <configuration name="P5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.D7_Array.P5" />
       <module name="Basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.D5_API.*" />
+          <option name="PATTERN" value="com.D7_Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,39 +146,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P8_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.D5_API.P8_String" />
-      <module name="Basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.D5_API.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.P5" />
+        <item itemvalue="Application.P3" />
+        <item itemvalue="Application.P2" />
         <item itemvalue="Application.AttendanceQuery" />
-        <item itemvalue="Application.P8_String" />
-        <item itemvalue="Application.P7_Event" />
-        <item itemvalue="Application.P7_Demo1_Attendance" />
-        <item itemvalue="Application.P6_JTextArea" />
       </list>
     </recent_temporary>
   </component>
@@ -204,6 +184,10 @@
       <workItem from="1752585900704" duration="628000" />
       <workItem from="1752613853578" duration="7034000" />
       <workItem from="1752639529737" duration="10743000" />
+      <workItem from="1752655449004" duration="773000" />
+      <workItem from="1752708837964" duration="1761000" />
+      <workItem from="1752751082781" duration="1405000" />
+      <workItem from="1752985083150" duration="4564000" />
     </task>
     <servers />
   </component>
