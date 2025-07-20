@@ -5,18 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db19f751-8078-40a9-b9fd-090545e41d07" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Basic/src/com/D7_Array/P1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/com/D7_Array/P2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/com/D7_Array/P3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/com/D7_Array/P4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/com/D7_Array/P5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/com/D8_PuzzleGame/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/com/D8_PuzzleGame/Music.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/com/D8_PuzzleGame/PictureFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Database/src/com/Abstract/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Database/src/com/Abstract/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Database/src/com/Abstract/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Database/src/com/Abstract/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Database/src/com/Designmode/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Database/src/com/Designmode/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Database/src/com/Designmode/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Database/src/com/JiChengDeBianLiang/ClassFu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Database/src/com/JiChengDeBianLiang/ClassZi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Database/src/com/JiChengDeFangFa/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Database/src/com/JiChengDeFangFa/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Database/src/com/JiChengDeFangFa/Test1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic/Basic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/Basic.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic/src/com/D1_Basis/Note2_Calculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/com/D1_Basis/Note2_Calculation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Basic/com/D1_Basis/Note2_Calculation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Basic/com/D1_Basis/Note2_Calculation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/com/D8_PuzzleGame/PictureFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/com/D8_PuzzleGame/PictureFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Database/Database.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Database/Database.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +70,7 @@
       <recent name="Z:\@Code\JavaNote\Basic\src\com\D5_API" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.App">
+  <component name="RunManager" selected="Application.Test1 (1)">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.D8_PuzzleGame.App" />
       <module name="Basic" />
@@ -81,38 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AttendanceQuery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.D6_API_Project.AttendanceQuery" />
-      <module name="Basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.D6_API_Project.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Note1_Basis" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.D1_Basis.Note1_Basis" />
       <module name="Basic" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.D1_Basis.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.D7_Array.P2" />
-      <module name="Basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.D7_Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,24 +123,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration name="Test1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.JiChengDeFangFa.Test1" />
+      <module name="Database" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.JiChengDeFangFa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Abstract.Test1" />
+      <module name="Database" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Abstract.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test1 (1)" />
+        <item itemvalue="Application.Test1" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.P5" />
         <item itemvalue="Application.P3" />
-        <item itemvalue="Application.P2" />
-        <item itemvalue="Application.AttendanceQuery" />
       </list>
     </recent_temporary>
   </component>
@@ -188,6 +193,7 @@
       <workItem from="1752708837964" duration="1761000" />
       <workItem from="1752751082781" duration="1405000" />
       <workItem from="1752985083150" duration="4564000" />
+      <workItem from="1752992282746" duration="10024000" />
     </task>
     <servers />
   </component>

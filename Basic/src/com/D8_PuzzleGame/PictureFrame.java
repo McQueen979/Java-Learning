@@ -11,7 +11,7 @@ import java.util.Random;
 //继承自JFrame,就可以通过this调用成员变量和方法了(子类如果没有找父类)
 //public class PictureFrame {
 public class PictureFrame extends JFrame{
-/*
+/*  extend
     PictureFrame 类想要通过 this 调用 JFrame 的成员变量和方法，但实际上它并没有继承 JFrame。
     这会导致 this.setSize()、this.setTitle() 等方法调用出错，因为 PictureFrame 类本身没有这些方法。
     让 PictureFrame 类继承 JFrame。
